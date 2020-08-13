@@ -5,8 +5,24 @@ public class Main {
     @Test
     public void testHelloWrold() {
 
-        soutdawwar
-                看空间·大V
+
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
+        System.out.println("HelloWorld!");
         System.out.println("HelloWorld!");
     }
 
